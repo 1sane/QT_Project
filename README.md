@@ -1,2 +1,1 @@
-# Projets_QT
-Projets réalisés sous QT
+# QT Camera project using motion detection.
