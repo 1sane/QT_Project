@@ -1,1 +1,1 @@
-# QT Camera project using motion detection.
+# QT Camera project with motion detection using opencv library.
